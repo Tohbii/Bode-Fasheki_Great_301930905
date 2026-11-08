@@ -43,7 +43,7 @@ The database models customers, products, orders, order items, and payments. This
 - [x] Portfolio 3: Transactions and Concurrency
 - [x] Portfolio 4: NoSQL and Advanced Data Models
 - [x] Portfolio 5: Distributed and Cloud Database Exercise
-- [ ] Final documentation, reflection, and submission report
+- [x] Final documentation, reflection, and submission report
 
 ## Repository Structure
 
